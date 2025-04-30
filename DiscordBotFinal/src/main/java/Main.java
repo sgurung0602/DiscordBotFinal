@@ -14,7 +14,7 @@ public class Main {
 
         QuestionManager questionManager = new QuestionManager();
 
-        JDA jda = JDABuilder.createLight("MTI0NzIyNDYwMjk1NDgyNTc2Mg.G7Ce-w._4ar1IAK2p2NHY-eUI8TwOvRK_CpSbl8jb_rSE", GatewayIntent.GUILD_MESSAGES, GatewayIntent.MESSAGE_CONTENT, GatewayIntent.GUILD_MEMBERS)
+        JDA jda = JDABuilder.createLight("TOKEN", GatewayIntent.GUILD_MESSAGES, GatewayIntent.MESSAGE_CONTENT, GatewayIntent.GUILD_MEMBERS)
                 .addEventListeners(
                         new Listener(scoreTracker, questionManager),
                         new triviaQuestion(scoreTracker),
