@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+<question>
+<text>Who is this?</text>
+<image>https://mario.nintendo.com/static/f350c31adcd6378b913f7660db299714/7e15c/mario.png</image>
+<answers>Mario</answers>
+</question>
+<question>
+<text>What company released the game Donkey Kong?</text>
+<image>https://static.wikia.nocookie.net/mario/images/0/05/MvDK_NS_DK_Bag.png/revision/latest?cb=20240211182355</image>
+<answers>Nintendo</answers>
+</question>
+<question>
+<text>What game console is this logo from? </text>
+<image> https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Xbox_one_logo.svg/2048px-Xbox_one_logo.svg.png </image>
+<answers>Xbox</answers>
+</question>
+<question>
+<text>Who created the hit game MineCraft? </text>
+<image>https://assets.xboxservices.com/assets/0e/f8/0ef8df5c-a7dd-4eb3-b11a-743058d93953.jpg?n=Minecraft_GLP-Page-Hero-1084_Titan-Update_1920x1080_01.jpg </image>
+<answers>Notch</answers>
+</question>
+<question>
+<text>What game console is this logo from? </text>
+<image>https://media.designrush.com/inspiration_images/288867/conversions/PS2_9661432b7934-mobile.jpg </image>
+<answers>Playstation</answers>
+</question>
+<question>
+<text>What is the shortened form of the popular online MOBA game League of Legends also referred as? </text>
+<image>https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S2_1200x1600-905a96cea329205358868f5871393042</image>
+<answers>lol </answers>
+</question>
+</questions>

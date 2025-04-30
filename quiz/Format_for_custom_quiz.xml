@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+    <question>
+        <text> Put your question here! </text>
+        <image> You can add an image URL or GIF here, or leave this blank </image>
+        <answers> List the possible answers here, separated by commas </answers>
+    </question>
+    <!-- Repeat the <question> tag for additional questions -->
+</questions>

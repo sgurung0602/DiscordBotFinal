@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+    <question>
+        <text>What flag is this?</text>
+        <image>https://cdn.britannica.com/79/4479-050-6EF87027/flag-Stars-and-Stripes-May-1-1795.jpg</image>
+        <answers>USA,America</answers>
+    </question>
+    <question>
+        <text>What flag is this?</text>
+        <image>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/640px-Flag_of_Canada_%28Pantone%29.svg.png</image>
+        <answers>Canada,Canadian</answers>
+    </question>
+    <question>
+        <text>What flag is this?</text>
+        <image>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidQjcxwcFR60gtfOsNhpZ59hHMCAv-OxgDzgvq-xc-klHYL1YAe504j8CLJLLwbzJ70M2wPEb6vfjCI22fEZi8QD9sLb0iGTHr3-n2mXI6_kGpZOUzoszXr-mwE5U-VZMeKw-I_SRTcfw/s0/Flag_of_Japan.gif</image>
+        <answers>Japan,Japanese</answers>
+    </question>
+    <question>
+        <text>What flag is this?</text>
+        <image>https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1280px-Flag_of_Germany.svg.png</image>
+        <answers>Germany,German</answers>
+    </question>
+    <question>
+        <text>What flag is this?</text>
+        <image>https://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_Italy_%281946%E2%80%932003%29.png</image>
+        <answers>Italy,Italian</answers>
+    </question>
+    <question>
+        <text>What flag is this?</text>
+        <image>https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png</image>
+        <answers>Brazil,Brazilian</answers>
+    </question>
+    <question>
+        <text>What flag is this?</text>
+        <image>https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png</image>
+        <answers>India,Indian</answers>
+    </question>
+    <question>
+        <text>What flag is this?</text>
+        <image>https://media.istockphoto.com/id/1092635968/vector/australia-flag.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=YEp_hCl7Ub0nteWFKh6HrZwSFzUh3xmEYWuJe-RRt5Y=</image>
+        <answers>Australia,Australian</answers>
+    </question>
+    <question>
+        <text>What flag is this?</text>
+        <image>https://m.media-amazon.com/images/I/71SiqD1vcrL._AC_UF1000,1000_QL80_.jpg</image>
+        <answers>Nepal,Nepalese</answers>
+    </question>
+</questions>

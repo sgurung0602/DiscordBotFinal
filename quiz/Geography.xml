@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+    <question>
+        <text>What is the capital of France?</text>
+        <image>https://cdn.britannica.com/83/683-050-8C44373B/France-map-boundaries-cities-locator.jpg</image>
+        <answers>Paris,Paris</answers>
+    </question>
+    <question>
+        <text>Which continent is Australia located on?</text>
+        <image>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Seven_continents_Australia_not_Oceania.png/600px-Seven_continents_Australia_not_Oceania.png</image>
+        <answers>Australia,Australia</answers>
+    </question>
+    <question>
+        <text>Which ocean is the largest?</text>
+        <image>https://cdn.hswstatic.com/gif/oceans.jpg</image>
+        <answers>Pacific,Pacific Ocean</answers>
+    </question>
+    <question>
+        <text>What is the largest country by land area?</text>
+        <image>https://upload.wikimedia.org/wikipedia/commons/a/a1/Russia_map.svg</image>
+        <answers>Russia,Russia</answers>
+    </question>
+    <question>
+        <text>Which country is known for its pyramids?</text>
+        <image>https://cdn.dribbble.com/users/4011649/screenshots/7135522/media/3b4b7c2835f2a45bb30b6af5b064d965.gif</image>
+        <answers>Egypt,Egypt</answers>
+    </question>
+    <question>
+        <text>What is the capital city of Japan?</text>
+        <image>https://giffiles.alphacoders.com/207/207788.gif</image>
+        <answers>Tokyo,Tokyo</answers>
+    </question>
+    <question>
+        <text>Which river is the longest in the world?</text>
+        <image>https://images.nationalgeographic.org/image/upload/v1638886653/EducationHub/photos/jinsha-river.jpg</image>
+        <answers>Nile,Nile</answers>
+    </question>
+    <question>
+        <text>Which country is known for the Eiffel Tower?</text>
+        <image>https://www.travelandleisure.com/thmb/SPUPzO88ZXq6P4Sm4mC5Xuinoik=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/eiffel-tower-paris-france-EIFFEL0217-6ccc3553e98946f18c893018d5b42bde.jpg</image>
+        <answers>France,France</answers>
+    </question>
+</questions>
